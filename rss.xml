@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tumkur Diaries]]></title>
         <description><![CDATA[Tumkur Diaries]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tumkur-diaries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 03:14:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 03:24:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tumkur-diaries/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abfbb456-c376-4253-b053-698e78036751.jpg">]]></description>
-            <link>undefinedfebruary-2015/index.html</link>
+            <link>https://thegrid.ai/tumkur-diaries/february-2015/index.html</link>
             <guid isPermaLink="false">a8d9366f-72ab-44ff-9431-49ee0b338c94</guid>
-            <pubDate>Fri, 15 Apr 2016 03:14:37 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 03:24:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
