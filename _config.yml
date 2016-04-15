@@ -1,0 +1,28 @@
+name: Tumkur Diaries
+favicon: null
+layout_spectrum: 0.16914704791270196
+typography_spectrum: 0.8954574323724955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9519215752370656
+  lightness: 0.35593286366201937
+  saturation: 0.6169408145360649
+  rhythmicContrast: 0.3115783385001123
+purpose: []
