@@ -4,8 +4,15 @@
         <description><![CDATA[Tumkur Diaries]]></description>
         <link>https://thegrid.ai/tumkur-diaries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 03:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 03:58:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tumkur-diaries/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>Welcome to Tumkur Diaries! </p></article>]]></description>
+            <link>https://thegrid.ai/tumkur-diaries/hello/index.html</link>
+            <guid isPermaLink="false">1490a774-f4cb-43ec-a0a8-43ea8d55f204</guid>
+            <pubDate>Fri, 15 Apr 2016 03:58:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abfbb456-c376-4253-b053-698e78036751.jpg">]]></description>
