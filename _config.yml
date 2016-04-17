@@ -1,7 +1,7 @@
 name: Women Empowerment Project
 favicon: null
-layout_spectrum: 0.89597
-typography_spectrum: 0
+layout_spectrum: 1
+typography_spectrum: 0.22369
 title: Tumkur Diaries
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#d1d0d5'
-    - '#efb39b'
-    - '#303135'
-    - '#7d5f55'
+    - '#c8c4c1'
+    - '#a2a2a2'
+    - '#fbfbfb'
+    - '#847b7c'
+    - '#545a70'
   brandStrength: 0.875
   lightness: 0.5625
   saturation: 0.6875
