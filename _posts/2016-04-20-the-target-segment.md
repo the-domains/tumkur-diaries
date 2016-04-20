@@ -2,15 +2,17 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: March 2015
-datePublished: '2016-04-20T06:16:30.572Z'
-dateModified: '2016-04-20T06:04:05.268Z'
+datePublished: '2016-04-20T06:16:49.730Z'
+dateModified: '2016-04-20T06:16:31.468Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-20-the-target-segment.md
 published: true
 authors: []
