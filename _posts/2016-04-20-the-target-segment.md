@@ -2,22 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: The Target Segment
-datePublished: '2016-04-20T05:04:26.202Z'
-dateModified: '2016-04-20T05:03:45.108Z'
+datePublished: '2016-04-20T05:22:16.318Z'
+dateModified: '2016-04-20T05:21:00.762Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-the-target-segment.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-the-target-segment.md
-published: true
 _type: Blurb
 
 ---
