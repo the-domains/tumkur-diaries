@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[Tumkur Diaries]]></title>
         <description><![CDATA[Tumkur Diaries]]></description>
-        <link>https://thegrid.ai/tumkur-diaries/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 05:57:59 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/tumkur-diaries/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Target Segment]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a05298-3c74-466a-a7b0-aae1441e1c61.jpg">]]></description>
-            <link>https://thegrid.ai/tumkur-diaries/the-target-segment/index.html</link>
-            <guid isPermaLink="false">bb15d907-5649-41b2-a7ab-a64c7336ad3f</guid>
-            <pubDate>Wed, 20 Apr 2016 05:57:58 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 20 Apr 2016 05:57:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Journey]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abfbb456-c376-4253-b053-698e78036751.jpg">]]></description>
-            <link>https://thegrid.ai/tumkur-diaries/the-journey/index.html</link>
+            <link>undefinedthe-journey/index.html</link>
             <guid isPermaLink="false">a8d9366f-72ab-44ff-9431-49ee0b338c94</guid>
             <pubDate>Wed, 20 Apr 2016 05:57:52 GMT</pubDate>
         </item>
