@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The Target Segment
-datePublished: '2016-04-20T05:23:56.700Z'
-dateModified: '2016-04-20T05:22:16.551Z'
+datePublished: '2016-04-20T05:27:13.190Z'
+dateModified: '2016-04-20T05:24:04.734Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-the-target-segment.md
