@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: March 2015
-datePublished: '2016-04-20T05:57:58.751Z'
-dateModified: '2016-04-20T05:55:04.902Z'
+datePublished: '2016-04-20T06:16:30.572Z'
+dateModified: '2016-04-20T06:04:05.268Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-the-target-segment.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: the-target-segment/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31a05298-3c74-466a-a7b0-aae1441e1c61.jpg)
